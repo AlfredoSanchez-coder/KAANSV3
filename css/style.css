@@ -1,0 +1,6 @@
+.breadcrumb {background: rgba(223, 229, 237, 0); border: 0px solid rgba(8, 8, 8, 0.16); border-radius: 22px; display: block;}
+.breadcrumb li {font-size: 17px;}
+.breadcrumb a {color: rgba(7, 63, 217, 1);}
+.breadcrumb a:hover {color: rgba(43, 110, 186, 1);}
+.breadcrumb>.active {color: rgba(15, 14, 14, 1);}
+.breadcrumb>li+li:before {color: rgba(44, 61, 107, 1); content: "\00bb\00a0";}
